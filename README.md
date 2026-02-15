@@ -1,7 +1,6 @@
 # 🚀 Hold to New Tab🖱️✨
 
 **Version:** 1.0.0
-**Author:** AceBurgundy
 **Homepage:** [sam-sabalo.vercel.app](https://sam-sabalo.vercel.app)
 
 ## 🎯 What is it?
